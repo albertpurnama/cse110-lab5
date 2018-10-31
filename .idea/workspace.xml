@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b7f0530-1688-45b8-a779-6ffa47e9f5f0" name="Default Changelist" comment="" />
+    <list default="true" id="8b7f0530-1688-45b8-a779-6ffa47e9f5f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +243,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541007224763" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541007619639" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -343,7 +345,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541005233905</updated>
-      <workItem from="1541005236800" duration="1998000" />
+      <workItem from="1541005236800" duration="2250000" />
     </task>
     <servers />
   </component>
@@ -368,17 +370,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1998000" />
+    <option name="totallyTimeSpent" value="2250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="0" width="770" height="1050" extended-state="6" />
+    <frame x="944" y="0" width="736" height="1050" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30631867" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32132566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
